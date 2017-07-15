@@ -81,7 +81,6 @@ dependencies {
     compile("com.tencent.tinker:tinker-android-lib:${TINKER_VERSION}") { changing = true }
     //用于生成application类
     provided("com.tencent.tinker:tinker-android-anno:${TINKER_VERSION}") { changing = true }
-    compile 'com.meituan.android.walle:library:1.1.4'
 }
 
 //Tinker相关配置start======================================
