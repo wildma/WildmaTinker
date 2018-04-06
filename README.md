@@ -4,4 +4,4 @@
 ### [热修复框架Tinker最完整讲解（02）——加入Walle多渠道打包](http://www.jianshu.com/p/8a850ddee403)
 ### [热修复框架Tinker最完整讲解（03）——使用Tinker常见问题](http://www.jianshu.com/p/0e72515505ca)
 
-ps:如果对你有帮助，点个star就是对我最大的支持~
+ps:如果对你有帮助，点下star就是对我最大的认可。
